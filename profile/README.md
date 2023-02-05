@@ -25,11 +25,10 @@ The Labs for building and maintaining our blockchain projects and our involvment
 
 ### Organisations in Setheum Labs
 
-* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of protocols. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
-* [OpenWeb3 AI](https://github.com/openweb3AI): Setheum's AI Computation Suite. By **[@openweb3-foundation](https://github.com/openweb3-foundation)**.
-* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Layer-2 Blockchain Network. By **[@openweb3-foundation](https://github.com/openweb3-foundation)**.
-* [OpenWeb3 Foundation](https://github.com/Open-Web3-Foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
-* [Setheum-Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
+* [Khalifa](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Optimised Blockchain. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
+* [OpenWeb3 Foundation](https://github.com/openweb3-foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
+* [Setheum Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
+* [Slixon Technologies](https://github.com/Slixon-Technologies): "THINK IT? MAKE IT!" Powering Web3 Infrastructure. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs) & [@Khalifa-Blockchain](https://github.com/Khalifa-Blockchain). Supporting the #Setheum Ecosystem.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
